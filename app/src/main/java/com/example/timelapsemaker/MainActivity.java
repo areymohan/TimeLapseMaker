@@ -1,6 +1,7 @@
 package com.example.timelapsemaker;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
 
